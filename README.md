@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayur Kumar Agarwal
 - 👀 I’m interested in automation testing and devlopment
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on manual or automation testing or API testing using postman.
 - 📫 How to reach me ...
 
 <!---
